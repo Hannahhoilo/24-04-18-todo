@@ -1,0 +1,8 @@
+.todo {
+	color: #d26e6e;
+}
+
+.todoCompleted {
+	color: #45d945;
+	text-decoration: line-through;
+}
